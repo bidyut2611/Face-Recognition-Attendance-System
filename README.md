@@ -41,9 +41,7 @@ Attendance Management System based on Face Recognition using Python  and OpenCv
 <img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(35).png">
 
 
-### Video demo
 
-[Youtube](https://youtu.be/onms2KDOTtY)
 
 
 ### Notes
